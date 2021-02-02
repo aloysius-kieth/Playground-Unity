@@ -1,0 +1,9 @@
+<NullReferenceException: Object reference not set to an instance of an object> --- Begin Error Message: TRINAX.TrinaxLoadSceneAsync+<LoadLevelAsync>d__9.MoveNext () (at Assets/Libs/_TRINAX_UNITY_LIB/Scripts/TrinaxLoadSceneAsync.cs:56)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <17ad9609ae064f2c9315931ff97adcf1>:0)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+TRINAX.<>c__DisplayClass8_0:<LoadLevel>b__0() (at Assets/Libs/_TRINAX_UNITY_LIB/Scripts/TrinaxLoadSceneAsync.cs:46)
+DG.Tweening.Tween:OnTweenCallback(TweenCallback) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:269)
+DG.Tweening.Tween:DoGoto(Tween, Single, Int32, UpdateMode) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Tween.cs:253)
+DG.Tweening.Core.TweenManager:Update(UpdateType, Single, Single) (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/TweenManager.cs:436)
+DG.Tweening.Core.DOTweenComponent:Update() (at D:/DG/_Develop/__UNITY3_CLASSES/_Holoville/__DOTween/_DOTween.Assembly/DOTween/Core/DOTweenComponent.cs:51)
+
